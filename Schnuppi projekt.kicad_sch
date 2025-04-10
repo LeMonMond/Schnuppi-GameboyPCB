@@ -12880,7 +12880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 483.87 74.93 0)
 			(effects
 				(font
@@ -13099,7 +13099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" ""
 			(at 440.69 150.495 0)
 			(effects
 				(font
@@ -13571,7 +13571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 511.5052 95.25 0)
 			(effects
 				(font
@@ -14155,7 +14155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 417.5252 91.44 0)
 			(effects
 				(font
@@ -15249,7 +15249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" ""
 			(at 440.69 169.545 0)
 			(effects
 				(font
@@ -15465,7 +15465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB4105-GF-A:GCT_USB4105-GF-A"
+		(property "Footprint" "USB4105-GF-A (2):GCT_USB4105-GF-A"
 			(at 236.22 68.58 0)
 			(effects
 				(font
@@ -17150,7 +17150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P20.32mm_Horizontal"
+		(property "Footprint" ""
 			(at 453.39 141.9352 0)
 			(effects
 				(font
@@ -18589,7 +18589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 328.6252 53.34 0)
 			(effects
 				(font
